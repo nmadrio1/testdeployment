@@ -1,0 +1,1 @@
+Add these files to the cd_catalog_class folder.
